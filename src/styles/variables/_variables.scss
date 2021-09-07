@@ -1,0 +1,16 @@
+@import "theme";
+@import "font";
+@import "space";
+
+/* -------- START : Common -------- */
+$highlight-background: linear-gradient(90.03deg,
+  $theme-primary 0%,
+  $theme-secondary 100%);
+$border-radius-1: 10px;
+$border-radius-2: 27px;
+$border-radius-3: 20px;
+
+$header-height: 100px;
+
+$small-tablet-breakpoint: 1025px;
+/* -------- END : Common -------- */

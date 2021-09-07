@@ -1,0 +1,19 @@
+@import "reset";
+body{
+  font-family: $font-primary;
+  color: $theme-white;
+  background-color: $theme-bg-shade-1;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+  color: $theme-primary;
+}
+button {
+  background-color: transparent;
+  font-family: $font-primary;
+  color: $theme-white;
+  border: none;
+  cursor: pointer;
+}
